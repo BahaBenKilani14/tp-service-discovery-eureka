@@ -1,0 +1,33 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java / Maven
+target/
+*.class
+
+# Node.js
+node_modules/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# H2 Database files
+*.mv.db
+*.trace.db
+*.lock.db
